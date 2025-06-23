@@ -8,4 +8,4 @@ hello world!
 
 Make Sure you have javascript available 
 Run index.html in browser
-
+kernel panick
